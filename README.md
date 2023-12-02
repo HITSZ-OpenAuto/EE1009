@@ -8,6 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-80%25-wheat)
 
 注意，数字电子技术实验（[EE1010](https://hoa.moe/docs/sophomore-spring/ee1010)）是独立设课。
+
 ## 教材和参考书
 教材：(清华大学) 阎石，王红主编，数字电子技术基础（第6版），高等教育出版社。
 
