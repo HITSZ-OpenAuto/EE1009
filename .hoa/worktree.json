@@ -1,0 +1,182 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2658,
+    "time": 1751724544,
+    "hash": "6a0d400389b633d6e0c88b9a772d7eea1bf846bc"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713083272,
+    "hash": "373de015a241db160330978945c6138f57432a73"
+  },
+  "README.md": {
+    "size": 12894,
+    "time": 1737561659,
+    "hash": "3dd4ba65d72d3c36c79c282f828ace8130369626"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737533026,
+    "hash": "423c08e997e9dcff1b11fc7f51000ca966c3b4c9"
+  },
+  "assignments/数电作业存档（22级 psp）.pdf": {
+    "size": 2268117,
+    "time": 1720873891,
+    "hash": "3a02919a96385e24073f56863f1a889416e52487"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737533026,
+    "hash": "423c08e997e9dcff1b11fc7f51000ca966c3b4c9"
+  },
+  "exams/2023春数电期末/2023数电试题回忆版V1.1.pdf": {
+    "size": 4300015,
+    "time": 1720236744,
+    "hash": "b176c07aebbdf6d925680dfc257fc6b29aeb2f60"
+  },
+  "exams/2023春数电期末/2023春数电试题 填空题解析.pdf": {
+    "size": 4517440,
+    "time": 1721553521,
+    "hash": "c1e9386cb1090cc8b3914e9605892da1f117b045"
+  },
+  "exams/2023春数电期末/2023春数电试题 电路设计题解析.pdf": {
+    "size": 1826189,
+    "time": 1737561659,
+    "hash": "3dd4ba65d72d3c36c79c282f828ace8130369626"
+  },
+  "exams/2023春数电期末/2023春数电试题 简答+电路分析题解析.pdf": {
+    "size": 3361840,
+    "time": 1737561659,
+    "hash": "3dd4ba65d72d3c36c79c282f828ace8130369626"
+  },
+  "exams/2023春数电期末复习题V1.2.pdf": {
+    "size": 740547,
+    "time": 1737561659,
+    "hash": "3dd4ba65d72d3c36c79c282f828ace8130369626"
+  },
+  "exams/2023春数电期末复习题参考答案V1.2.pdf": {
+    "size": 4182627,
+    "time": 1737561659,
+    "hash": "3dd4ba65d72d3c36c79c282f828ace8130369626"
+  },
+  "exams/2023电信数电期末/2023电信数电填空题自制答案.pdf": {
+    "size": 988865,
+    "time": 1720236744,
+    "hash": "b176c07aebbdf6d925680dfc257fc6b29aeb2f60"
+  },
+  "exams/2023电信数电期末/2023电信数电期末试题回忆.pdf": {
+    "size": 1256493,
+    "time": 1720236744,
+    "hash": "b176c07aebbdf6d925680dfc257fc6b29aeb2f60"
+  },
+  "exams/2023电信数电期末/2023电信数电计算题答案.pdf": {
+    "size": 2084361,
+    "time": 1720236744,
+    "hash": "b176c07aebbdf6d925680dfc257fc6b29aeb2f60"
+  },
+  "exams/2023电信数电期末/23电信数电大题部分.pdf": {
+    "size": 707427,
+    "time": 1737561659,
+    "hash": "3dd4ba65d72d3c36c79c282f828ace8130369626"
+  },
+  "exams/2024春数电期末/2024春数电期末.pdf": {
+    "size": 462651,
+    "time": 1737561659,
+    "hash": "3dd4ba65d72d3c36c79c282f828ace8130369626"
+  },
+  "exams/2024春数电期末/2024春数电试题 填空题解析.pdf": {
+    "size": 3777763,
+    "time": 1733801289,
+    "hash": "505f4c31ff4f3fe7fc3af8b0365854fe5ac42a8f"
+  },
+  "exams/2024春数电期末/2024春数电试题 电路分析题解析.pdf": {
+    "size": 743570,
+    "time": 1733801289,
+    "hash": "505f4c31ff4f3fe7fc3af8b0365854fe5ac42a8f"
+  },
+  "exams/2024春数电期末/2024春数电试题 电路设计题解析.pdf": {
+    "size": 1759747,
+    "time": 1733801289,
+    "hash": "505f4c31ff4f3fe7fc3af8b0365854fe5ac42a8f"
+  },
+  "exams/[网盘计划]哈工大数电往年期末试题（2011-2020）.pdf": {
+    "size": 36918307,
+    "time": 1737561659,
+    "hash": "3dd4ba65d72d3c36c79c282f828ace8130369626"
+  },
+  "exams/哈工大数电试题2010-2015（带答案）.pdf": {
+    "size": 5429910,
+    "time": 1720236744,
+    "hash": "b176c07aebbdf6d925680dfc257fc6b29aeb2f60"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737533026,
+    "hash": "423c08e997e9dcff1b11fc7f51000ca966c3b4c9"
+  },
+  "materials/2024 数字电子技术基础趣题/2024 数字电子技术基础趣题 解析.pdf": {
+    "size": 841243,
+    "time": 1733898435,
+    "hash": "cde118861657a2316024c9316fecfaa48537eaed"
+  },
+  "materials/2024 数字电子技术基础趣题/2024 数字电子技术基础趣题.pdf": {
+    "size": 229614,
+    "time": 1733898435,
+    "hash": "cde118861657a2316024c9316fecfaa48537eaed"
+  },
+  "materials/2024 数字电子技术基础趣题/npulse.zip": {
+    "size": 550613,
+    "time": 1733801289,
+    "hash": "505f4c31ff4f3fe7fc3af8b0365854fe5ac42a8f"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737533026,
+    "hash": "423c08e997e9dcff1b11fc7f51000ca966c3b4c9"
+  },
+  "notes/2024春数字电路笔记-psp.pdf": {
+    "size": 37018579,
+    "time": 1737561659,
+    "hash": "3dd4ba65d72d3c36c79c282f828ace8130369626"
+  },
+  "notes/2024春数电期末总结-zsa.pdf": {
+    "size": 17027260,
+    "time": 1737561659,
+    "hash": "3dd4ba65d72d3c36c79c282f828ace8130369626"
+  },
+  "notes/学妈致全体同学.mp3.m4a": {
+    "size": 15736574,
+    "time": 1719726846,
+    "hash": "0f9458086743ac3f2907bf420451467e555261fd"
+  },
+  "notes/数字电路基础知识.pdf": {
+    "size": 1760477,
+    "time": 1737561659,
+    "hash": "3dd4ba65d72d3c36c79c282f828ace8130369626"
+  },
+  "notes/数字电路的基础知识.ppt": {
+    "size": 3321344,
+    "time": 1737561659,
+    "hash": "3dd4ba65d72d3c36c79c282f828ace8130369626"
+  },
+  "notes/数字电路知识点汇总(精华版).doc": {
+    "size": 4542464,
+    "time": 1719726846,
+    "hash": "0f9458086743ac3f2907bf420451467e555261fd"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737533026,
+    "hash": "423c08e997e9dcff1b11fc7f51000ca966c3b4c9"
+  },
+  "slides/2024春数电复习提纲.pdf": {
+    "size": 615422,
+    "time": 1737561659,
+    "hash": "3dd4ba65d72d3c36c79c282f828ace8130369626"
+  },
+  "tag.txt": {
+    "size": 77,
+    "time": 1734933945,
+    "hash": "344bafe6491dd14f8f66f56cbca353183d7c497c"
+  }
+}
