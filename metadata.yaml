@@ -1,0 +1,138 @@
+ID: "EE1009"
+SimilarID: []
+Name: "数字电子技术基础"
+CourseProperty:
+  Major:
+    - Year: "2019_2020"
+      Name: [ "电信", "自动化", "电气" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "EE1009"
+  CourseName: "数字电子技术基础"
+  Credit: "3.5"
+  CourseHour: "56.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时成绩"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "80"
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: "56"
+
+  Major:
+    - Year: "2020_2021"
+      Name: [ "通信", "自动化", "通信（第二学位）", "电气" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "EE1009"
+  CourseName: "数字电子技术基础"
+  Credit: "3.5"
+  CourseHour: "56.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时成绩"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "80"
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: "56"
+
+  Major:
+    - Year: "2021_2022"
+      Name: [ "通信", "自动化", "通信（第二学位）", "电气" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "EE1009"
+  CourseName: "数字电子技术基础"
+  Credit: "3.5"
+  CourseHour: "56.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时成绩"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "80"
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: "56"
+
+  Major:
+    - Year: "2022_2023"
+      Name: [ "通信", "光电", "自动化", "通信（第二学位）", "电气" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "EE1009"
+  CourseName: "数字电子技术基础"
+  Credit: "3.5"
+  CourseHour: "56.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时成绩"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "80"
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: "56"
+
+  Major:
+    - Year: "2023_2024"
+      Name: [ "光电", "通信", "自动化", "电气" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "EE1009"
+  CourseName: "数字电子技术基础"
+  Credit: "3.5"
+  CourseHour: "56.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时成绩"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "80"
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: "56"
