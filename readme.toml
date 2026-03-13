@@ -1,7 +1,6 @@
 course_name = "数字电子技术基础"
-repo_type = "normal"
 course_code = "EE1009"
-
+repo_type = "normal"
 description = """
 成绩构成：平时成绩20%，期末考试80%。
 
@@ -11,26 +10,27 @@ description = """
 注：王红在课上说过，她会修订教材里发现的错误，但不会去修订习题指导里面的错误（乐）
 """
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "喻锦程"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 授课风格：年轻小姐姐，人美心善，上课讲解细致（有时甚至达到啰嗦的程度） 期末考前会录制复习视频，也会鼓励大家，发在群里的消息很有意思！
 听课建议：认真听讲。她所负责的前半部分（包括数制与码制、逻辑代数基础、门电路、组合逻辑电路）难度不大，考查方式也比较固定，但是小题可以出得比较细。
 """
 author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "梁亮"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 授课风格：上课讲解比较清晰。但是课后答疑态度较差（"这个来上课的同学都知道的"），而且很喜欢在考试中出计算量极大、重复劳动很多的题目。 往年许多同学考试成绩很差。（请将老师的授课水平和出卷风格分开评价，不要因为其出卷风格而全盘否定其授课水平）
 听课建议：认真听讲。梁老师所讲的部分主要是触发器、时序逻辑电路、振荡电路和A/D D/A等较难的内容，是考试的重难点，光靠课上听不明白，一定要在课下多加整理！！
 """
 author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "" }
-
 
 [[sections]]
 title = "教材"
