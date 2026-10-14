@@ -1,10 +1,5 @@
 # EE1009 - 数字电子技术基础
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时成绩20%](https://img.shields.io/badge/平时成绩-20%25-wheat)
-![期末考试 80% (上课会有小测，以考勤为主，到场即有60分)](https://img.shields.io/badge/期末考试%2080%25%20(上课会有小测，以考勤为主，到场即有60分)--wheat)
 
 成绩构成：平时成绩20%，期末考试80%。
 
